@@ -12,3 +12,9 @@ digit ([0-9])
 letter ([a-zA-Z])
 whitespace ([\t\n ])
 
+%
+/*Rules section*/
+
+%
+
+/*functions implementation*/
