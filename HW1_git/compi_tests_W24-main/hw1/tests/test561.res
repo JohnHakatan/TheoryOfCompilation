@@ -4,4 +4,4 @@
 1 RELOP <=
 1 RELOP <=
 1 STRING V if <=
-ERROR: \
+Error \

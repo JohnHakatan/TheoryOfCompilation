@@ -1,1 +1,5 @@
-Error undefined escape sequence  
+1 STRING 
+1 NUM 9
+1 ID pOyAWPx1
+1 ID nDwY1Xp6b9W
+Error \

@@ -2,4 +2,4 @@
 1 SC ;
 1 BINOP /
 1 BOOL bool
-Error unclosed string
+Error undefined escape sequence c

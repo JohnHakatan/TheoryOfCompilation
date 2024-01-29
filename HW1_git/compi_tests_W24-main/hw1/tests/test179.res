@@ -1,3 +1,5 @@
 1 BREAK break
 1 BINOP +
-Error undefined escape sequence  
+1 STRING 
+1 ID i
+Error \

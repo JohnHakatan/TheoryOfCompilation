@@ -1,2 +1,2 @@
 1 BINOP /
-Error unclosed string
+Error undefined escape sequence s

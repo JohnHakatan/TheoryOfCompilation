@@ -22,15 +22,15 @@ Note that all examples assume you are running from the runner.py directory.
 
 run all tests and abort on first fail:
 
-`python3.6 runner.py ../compy_hw1/hw1.out`
+`python runner.py ../compy_hw1/hw1.out`
 
 run all tests and continue when failing:
 
-`python3.6 runner.py ../compy_hw1/hw1.out --dont_abort`
+`python runner.py ../compy_hw1/hw1.out --dont_abort`
 
 run tests 1, 2 and 3:
 
-`python3.6 runner.py ../compy_hw1/hw1.out --test_num 1 2 3`
+`python runner.py ../compy_hw1/hw1.out --test_num 1 2 3`
 
 remove all .res files from the tests dir:
 

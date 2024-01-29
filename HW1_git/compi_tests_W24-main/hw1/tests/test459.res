@@ -8,9 +8,3 @@
 1 RBRACE }
 2 BINOP +
 2 RETURN return
-2 STRING \ 40742 : 
- I  n H R
- i 41948 y 
-2 NUM 0
-2 NUM 27428
-ERROR: \

@@ -1,2 +1,2 @@
 1 NUM 6
-ERROR: 
+Error 

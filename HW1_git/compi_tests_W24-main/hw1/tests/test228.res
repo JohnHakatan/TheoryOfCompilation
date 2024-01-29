@@ -1,2 +1,2 @@
 1 STRING /continue
-ERROR: \
+Error \

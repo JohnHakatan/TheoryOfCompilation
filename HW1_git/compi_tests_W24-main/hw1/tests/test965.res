@@ -1,1 +1,1 @@
-Error undefined escape sequence xq^
+Error undefined escape sequence x

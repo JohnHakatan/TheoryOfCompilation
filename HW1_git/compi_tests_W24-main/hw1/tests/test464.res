@@ -3,4 +3,3 @@
 1 RELOP >
 1 RELOP >=
 1 ASSIGN =
-Error undefined escape sequence N

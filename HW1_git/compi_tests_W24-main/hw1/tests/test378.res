@@ -1,4 +1,5 @@
 1 BINOP *
 1 LPAREN (
 1 RELOP <=
-Error undefined escape sequence xDC
+1 STRING  U3oN 
+Error \

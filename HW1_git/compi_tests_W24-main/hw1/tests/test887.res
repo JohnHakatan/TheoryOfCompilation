@@ -6,4 +6,4 @@
 1 STRING d  
  61492 true= 
 1 ID GPQi
-ERROR: \
+Error \

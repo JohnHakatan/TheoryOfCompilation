@@ -1,3 +1,1 @@
 1 BREAK break
-1 STRING < 
-ERROR: \

@@ -6,4 +6,4 @@
 1 RELOP !=
 1 STRING 5050 
 1 ID V
-ERROR: \
+Error \

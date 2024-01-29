@@ -1,1 +1,4 @@
-Error undefined escape sequence L
+1 STRING Y \
+1 ID jDIJoGLFVwI0nuhx
+1 NUM 21391
+Error \

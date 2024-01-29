@@ -1,3 +1,7 @@
 1 RELOP <
 1 BOOL bool
-Error undefined escape sequence  
+1 STRING 18101 58089 97152 
+1 NUM 18101
+1 NUM 58089
+1 NUM 97152
+Error \

@@ -1,2 +1,8 @@
 1 BINOP *
-Error undefined escape sequence  
+1 STRING c 92766 
+1 ID n1SnPf1RmkH
+1 NUM 0
+1 NUM 0
+1 NUM 93447
+1 ID E9KwjySS0PU747
+Error \

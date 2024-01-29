@@ -1,2 +1,2 @@
 1 STRING >l6IPa
-ERROR: \
+Error \

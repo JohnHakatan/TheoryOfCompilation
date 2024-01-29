@@ -1,3 +1,3 @@
 1 BYTE byte
 1 STRING CL
-ERROR: \
+Error \

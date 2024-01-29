@@ -3,4 +3,4 @@
 1 RBRACE }
 1 VOID void
 1 LPAREN (
-Error undefined escape sequence h
+Error unclosed string

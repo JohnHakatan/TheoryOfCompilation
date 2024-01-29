@@ -4,4 +4,4 @@
 1 BINOP /
 1 SC ;
 1 STRING \ 
-ERROR: \
+Error \

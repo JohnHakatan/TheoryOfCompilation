@@ -4,4 +4,4 @@
 1 RBRACE }
 1 ID kYShcNUGughi
 1 STRING " 
-ERROR: \
+Error \

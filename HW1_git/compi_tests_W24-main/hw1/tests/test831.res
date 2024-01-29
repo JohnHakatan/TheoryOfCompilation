@@ -4,4 +4,4 @@
 1 BINOP +
 1 B b
 1 STRING k x V 72936 	 
-ERROR: \
+Error \

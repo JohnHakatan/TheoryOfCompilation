@@ -1,2 +1,6 @@
 1 BINOP -
-Error undefined escape sequence Y
+1 STRING TtIZ 
+1 ID M
+1 ID Q
+1 NUM 11168
+Error \

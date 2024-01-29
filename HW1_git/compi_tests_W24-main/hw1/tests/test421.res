@@ -1,2 +1,2 @@
 1 STRING 8197 
-ERROR: \
+Error \

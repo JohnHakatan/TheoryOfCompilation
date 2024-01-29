@@ -2,4 +2,4 @@
 1 STRING <+<=
 1 ID Ycr5ZnxRbxtr3
 1 STRING 
-ERROR: ]
+Error ]

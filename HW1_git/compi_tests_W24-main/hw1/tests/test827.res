@@ -1,1 +1,2 @@
-Error undefined escape sequence  
+1 STRING 
+Error \

@@ -1,4 +1,4 @@
 1 ID KEZD
 1 RELOP <
 1 ID J
-ERROR: @
+Error @

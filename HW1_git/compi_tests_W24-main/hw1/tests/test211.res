@@ -5,4 +5,3 @@
 1 RELOP >=
 1 BINOP -
 1 SC ;
-Error undefined escape sequence  

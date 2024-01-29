@@ -2,4 +2,4 @@
 1 STRING 
 1 ID d
 1 ID q
-ERROR: \
+Error \

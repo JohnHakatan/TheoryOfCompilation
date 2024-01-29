@@ -1,4 +1,4 @@
 1 RELOP <=
 1 STRING 	 
  
-ERROR: \
+Error \

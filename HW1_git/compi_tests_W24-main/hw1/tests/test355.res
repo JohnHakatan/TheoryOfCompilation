@@ -1,2 +1,12 @@
 1 ASSIGN =
-Error undefined escape sequence x82
+1 STRING 
+1 ID P
+1 ID l
+1 NUM 32983
+1 ID XGpWa8RxJ
+1 ID mM9nIuwKb70Z
+1 ID iC2cYTN
+1 ID d
+1 ID n
+1 ID ahxjcXM7P8wCG
+Error \

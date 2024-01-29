@@ -1,3 +1,3 @@
 1 BINOP -
 1 STRING 	 
-ERROR: \
+Error \

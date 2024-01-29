@@ -7,4 +7,4 @@
 1 RELOP ==
 1 STRING iWBv <=
 1 ID T
-ERROR: \
+Error \

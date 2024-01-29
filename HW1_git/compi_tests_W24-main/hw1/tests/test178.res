@@ -1,4 +1,4 @@
 1 LBRACE {
 1 STRING 
 1 NUM 71619
-ERROR: \
+Error \

@@ -1,2 +1,2 @@
 1 STRING GngLdd5bIpb
-ERROR: \
+Error \

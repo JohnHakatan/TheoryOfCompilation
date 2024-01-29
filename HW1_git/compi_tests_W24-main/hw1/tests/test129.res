@@ -1,7 +1,1 @@
 1 RELOP <
-1 STRING 8966 XVoWu43NGtAv \ t 33002 	O 92720/ " 31242void
-1 ID HikaWctw96
-1 NUM 8
-1 ID kJgJlbZKr1sRCNg
-1 ID ifyRmWseS4oc
-ERROR: \

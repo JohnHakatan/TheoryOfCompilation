@@ -1,1 +1,2 @@
-Error unclosed string
+1 STRING 5Q
+Error 

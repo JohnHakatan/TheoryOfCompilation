@@ -1,1 +1,1 @@
-Error undefined escape sequence xx:
+Error undefined escape sequence x

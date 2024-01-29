@@ -8,4 +8,4 @@
 6 ID argparse
 9 ID def
 9 ID get
-ERROR: _
+Error _

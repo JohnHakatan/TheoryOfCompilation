@@ -12,4 +12,4 @@
 2 ASSIGN =
 2 STRING 	L voidnMkLZHtStohkfalseint<=
 2 NUM 85162
-ERROR: \
+Error \

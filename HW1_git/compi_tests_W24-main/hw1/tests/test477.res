@@ -2,4 +2,3 @@
 1 STRING 
  30550 y 67035ihhkppI4g f WXXaNfv 
 1 RELOP <
-Error undefined escape sequence  

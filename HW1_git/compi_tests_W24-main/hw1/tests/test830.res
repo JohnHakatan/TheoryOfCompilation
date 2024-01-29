@@ -1,3 +1,3 @@
 1 OR or
 1 STRING <=
-ERROR: \
+Error \

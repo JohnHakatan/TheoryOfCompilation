@@ -8,4 +8,4 @@
 2 WHILE while
 2 STRING \ 71133 
  mQja9Ibo2fXM2 
-ERROR: \
+Error \

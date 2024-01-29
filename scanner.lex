@@ -11,7 +11,7 @@ void incHex(char*);
 digit       ([0-9])
 letter      ([a-zA-Z])
 signs       ([a-zA-Z0-9])
-illegal_standalon      ([^\"\n\r])
+illegal_standalon ([^\"\n\r])
 escape      ([\"\n\r\t\0\\])
 hex         ([0-9a-fA-F])
 whitespace  ([\r\n\t\ ])
@@ -51,9 +51,7 @@ continue                                return CONTINUE;
 \"                                      BEGIN(STRING_QUETOS);
 <STRING_QUETOS>[\t !#-\[\]-~]*          incString(yytext);
 <STRING_QUETOS>\\x[0-9a-fA-F]+         incHex(yytext); BEGIN(STRING_QUETOS);
-<HEX>\"                                 printf("Error undefined escape sequence x\n");exit(0);
-<HEX>.\"                                printf ("Error undefined escape sequence x%c\n",yytext[0]);exit(0);
-<HEX>.{2}                               return HEXERROR;
+<HEX>[0-9a-fA-F]?\"                     printf("Error undefined escape sequence x\n"); exit(0);
 <STRING_QUETOS>\\.                      checkString(yytext);
 <STRING_QUETOS>\r\n|\r|\n               printf("Error unclosed string\n"); exit(0);
 <STRING_QUETOS>\"                       BEGIN(INITIAL);return STRING;             

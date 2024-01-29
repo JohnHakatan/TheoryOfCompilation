@@ -1,2 +1,2 @@
 1 VOID void
-Error unclosed string
+Error undefined escape sequence s

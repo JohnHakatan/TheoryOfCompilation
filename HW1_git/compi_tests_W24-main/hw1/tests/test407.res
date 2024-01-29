@@ -4,4 +4,4 @@
 1 ASSIGN =
 1 ID orreturnif
 1 STRING 
-ERROR: \
+Error \

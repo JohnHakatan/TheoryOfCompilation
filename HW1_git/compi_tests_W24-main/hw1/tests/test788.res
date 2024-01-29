@@ -2,4 +2,4 @@
 1 STRING 0020927 GHw
  
  	 ;
-ERROR: \
+Error \

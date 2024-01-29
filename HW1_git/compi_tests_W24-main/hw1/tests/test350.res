@@ -1,2 +1,4 @@
 1 ASSIGN =
-Error undefined escape sequence  
+1 STRING M5JiC7LtdW pLTkjLXu mopGiWqQZY9 30700 el9Zj212  
+ \ 
+Error \

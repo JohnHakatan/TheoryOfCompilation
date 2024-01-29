@@ -6,4 +6,3 @@
 1 RELOP ==
 1 BOOL bool
 1 BREAK break
-Error undefined escape sequence xF6

@@ -5,4 +5,4 @@
 1 NUM 21799
 1 NUM 0
 1 NUM 96873
-ERROR: \
+Error \

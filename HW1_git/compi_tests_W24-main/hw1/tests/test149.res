@@ -1,2 +1,2 @@
 1 STRING j  
-ERROR: \
+Error \

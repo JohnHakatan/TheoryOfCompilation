@@ -1,2 +1,4 @@
 1 AND and
-Error undefined escape sequence  
+1 STRING s OZ 
+1 NUM 66273
+Error \

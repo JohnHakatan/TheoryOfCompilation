@@ -10,4 +10,4 @@
 2 BINOP +
 2 STRING uBdtVh0JR b   s T c " 63052  Kj 78753 
 2 ID M
-ERROR: \
+Error \

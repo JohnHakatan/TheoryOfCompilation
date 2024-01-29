@@ -6,4 +6,4 @@
 1 STRING 
   	  
 1 NUM 42671
-ERROR: \
+Error \

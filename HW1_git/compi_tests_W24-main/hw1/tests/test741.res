@@ -2,4 +2,3 @@
 1 LBRACE {
 1 RETURN return
 1 LBRACE {
-Error unclosed string

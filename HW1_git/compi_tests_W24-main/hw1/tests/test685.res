@@ -1,3 +1,5 @@
 1 B b
 1 RELOP <=
-Error undefined escape sequence  
+1 STRING Gy2 " 
+1 NUM 41054
+Error \

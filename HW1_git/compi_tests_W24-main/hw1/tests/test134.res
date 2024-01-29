@@ -1,4 +1,5 @@
 1 LPAREN (
 1 LPAREN (
 1 ID trueand
-Error undefined escape sequence F
+1 STRING 0051692 
+Error \

@@ -6,4 +6,4 @@
 1 STRING 14015 OI E 
 2 WHILE while
 2 STRING AYAQt40TixLs6h  e \ nr 	 KndNOv cFrQm2EIR 
-ERROR: \
+Error \

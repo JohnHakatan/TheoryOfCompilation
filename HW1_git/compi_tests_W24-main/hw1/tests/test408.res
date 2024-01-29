@@ -1,4 +1,10 @@
 1 RPAREN )
 1 RELOP <=
 1 RELOP <=
-Error undefined escape sequence -
+1 STRING 	
+1 NUM 95069
+1 ID R
+1 ID B
+1 NUM 2
+1 ID dc7ad
+Error \

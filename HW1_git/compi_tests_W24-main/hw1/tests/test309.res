@@ -3,4 +3,4 @@
 1 BINOP *
 1 STRING \ 66647Z h
 1 NUM 742717
-ERROR: \
+Error \

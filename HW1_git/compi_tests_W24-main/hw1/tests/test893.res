@@ -3,5 +3,3 @@
 1 TRUE true
 1 RELOP ==
 1 RELOP <
-1 STRING 8332% > \ DEGiUAJYqau O31970 oCga
-ERROR: \

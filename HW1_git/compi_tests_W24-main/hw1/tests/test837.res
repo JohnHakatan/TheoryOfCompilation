@@ -2,4 +2,7 @@
 1 BINOP *
 1 BINOP *
 1 INT int
-Error undefined escape sequence  
+1 STRING 
+1 ID S
+1 NUM 30294
+Error \

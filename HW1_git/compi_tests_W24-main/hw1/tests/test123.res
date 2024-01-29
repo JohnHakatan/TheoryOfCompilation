@@ -5,4 +5,4 @@
 1 ID bH2LzGx
 1 RELOP !=
 1 STRING 12877 bH2LzGx false
-ERROR: \
+Error \

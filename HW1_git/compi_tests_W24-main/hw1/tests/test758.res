@@ -1,2 +1,2 @@
 1 BOOL bool
-Error unclosed string
+Error undefined escape sequence p

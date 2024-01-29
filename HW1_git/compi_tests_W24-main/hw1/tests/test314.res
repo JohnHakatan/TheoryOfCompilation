@@ -2,4 +2,7 @@
 1 BINOP /
 1 CONTINUE continue
 1 BINOP *
-Error undefined escape sequence  
+1 STRING \ \ 6059  Mt2 
+1 ID BM2CnrLUD4XuVytL
+1 ID T
+Error \

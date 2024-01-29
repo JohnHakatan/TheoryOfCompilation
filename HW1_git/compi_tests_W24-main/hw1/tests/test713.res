@@ -6,6 +6,3 @@
 1 BINOP *
 1 ID orreturn
 1 RBRACE }
-1 STRING 	 	 F O 
- MBqEFkgdx$ /<
-ERROR: \

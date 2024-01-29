@@ -12,4 +12,4 @@
 2 ID nFg2froYltruenFg2froYland
 2 RELOP !=
 2 STRING ;
-ERROR: \
+Error \

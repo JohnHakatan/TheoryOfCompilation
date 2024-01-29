@@ -2,4 +2,6 @@
 1 BINOP *
 1 NOT not
 1 BINOP *
-Error undefined escape sequence u
+1 STRING  	 33842 
+1 ID c
+Error \

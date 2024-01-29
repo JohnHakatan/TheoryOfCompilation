@@ -4,4 +4,4 @@
 1 STRING 
 1 ID B
 1 ID i78804
-ERROR: \
+Error \

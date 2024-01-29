@@ -5,4 +5,4 @@
 1 ELSE else
 1 STRING M 
  S\ PFuHttY \ 
-ERROR: \
+Error \

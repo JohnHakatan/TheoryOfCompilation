@@ -2,4 +2,4 @@
 1 ELSE else
 1 STRING 
  	 !=Y2IhjFARcYXeUtWfxDHJNPPTj
-ERROR: \
+Error \

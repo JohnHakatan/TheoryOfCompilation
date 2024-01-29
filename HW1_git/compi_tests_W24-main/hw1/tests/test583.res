@@ -1,2 +1,4 @@
 1 CONTINUE continue
-Error undefined escape sequence  
+1 STRING 
+1 ID X
+Error \

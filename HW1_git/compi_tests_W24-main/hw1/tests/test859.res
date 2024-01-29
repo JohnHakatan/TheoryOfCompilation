@@ -1,1 +1,5 @@
-Error undefined escape sequence  
+1 STRING C 	 zE
+1 ID BSI9TJLTfbmPHhG
+1 NUM 93455
+1 ID J
+Error \

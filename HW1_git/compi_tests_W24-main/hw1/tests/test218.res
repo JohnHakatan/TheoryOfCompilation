@@ -8,4 +8,4 @@
 1 NUM 30220
 1 ID O
 1 ID NSGosMyj
-ERROR: \
+Error \
