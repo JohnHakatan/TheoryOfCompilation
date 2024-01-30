@@ -31,9 +31,8 @@
     ID = 26,
     NUM = 27,
     STRING = 28 ,
-	  OVERRIDE=29,
-    ERROR=30,
-    HEXERROR=31
+    ERROR=29,
+    HEXERROR=30
   };
   extern int yylineno;
   extern char* yytext;
