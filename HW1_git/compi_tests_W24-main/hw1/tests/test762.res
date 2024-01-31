@@ -1,3 +1,1 @@
-1 STRING F 
-1 ID F
-Error \
+Error undefined escape sequence  

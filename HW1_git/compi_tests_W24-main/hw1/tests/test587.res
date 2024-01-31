@@ -1,4 +1,1 @@
-1 STRING X p 85397 
-1 NUM 8784
-1 NUM 66348
-Error \
+Error undefined escape sequence J

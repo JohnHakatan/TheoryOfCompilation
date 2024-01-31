@@ -1,5 +1,3 @@
 1 BINOP *
 1 LPAREN (
 1 RELOP <=
-1 STRING  U3oN 
-Error \

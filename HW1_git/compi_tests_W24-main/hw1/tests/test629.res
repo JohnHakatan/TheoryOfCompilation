@@ -1,6 +1,3 @@
 1 RELOP >=
 1 BINOP -
-1 STRING 
-1 ID n
-1 ID n4E
-Error \
+Error undefined escape sequence  

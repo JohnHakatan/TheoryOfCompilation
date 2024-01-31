@@ -1,2 +1,1 @@
-1 STRING 
-Error \
+Error undefined escape sequence h

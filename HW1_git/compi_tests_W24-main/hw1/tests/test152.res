@@ -17,7 +17,4 @@
 2 ID truenot
 2 RELOP ==
 2 ID C0b
-3 STRING 	 	
-3 ID BeSlsreturn
-3 STRING 
-Error \
+Error undefined escape sequence N

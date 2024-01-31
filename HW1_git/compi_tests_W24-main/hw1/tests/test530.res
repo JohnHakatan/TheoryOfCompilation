@@ -5,4 +5,4 @@
 1 ID byteboolIJ7EhQ
 2 ASSIGN =
 2 AND and
-Error unclosed string
+Error undefined escape sequence j

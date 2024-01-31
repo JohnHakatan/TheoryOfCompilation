@@ -1,2 +1,1 @@
-1 STRING 32696 
-Error \
+Error undefined escape sequence  

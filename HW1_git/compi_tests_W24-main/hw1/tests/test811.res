@@ -1,4 +1,1 @@
 1 AND and
-1 STRING s OZ 
-1 NUM 66273
-Error \

@@ -3,4 +3,4 @@
 1 SC ;
 1 BINOP *
 1 SC ;
-Error unclosed string
+Error undefined escape sequence  

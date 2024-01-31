@@ -1,7 +1,2 @@
 1 ID XjIGpsthC2U0true
-1 STRING 
-1 ID IoD8TTG
-1 NUM 24711
-1 NUM 65090
-1 ID N
-Error \
+Error undefined escape sequence  

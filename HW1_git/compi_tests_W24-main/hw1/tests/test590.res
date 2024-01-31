@@ -1,7 +1,3 @@
 1 ID ub5NCLDSKWfa
 1 BINOP /
 1 LPAREN (
-1 STRING \ " 55474  p5C37 	 usVYQlvaubhU 
-1 ID JEPDuAO42r
-1 NUM 31163
-Error \

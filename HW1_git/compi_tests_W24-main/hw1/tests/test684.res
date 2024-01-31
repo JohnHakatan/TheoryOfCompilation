@@ -1,2 +1,1 @@
-1 STRING " JK 
-Error \
+Error undefined escape sequence  

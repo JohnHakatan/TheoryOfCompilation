@@ -1,5 +1,1 @@
 1 WHILE while
-1 STRING CnxbJ57SRA1GdRA 
-1 ID M
-1 NUM 8
-Error \

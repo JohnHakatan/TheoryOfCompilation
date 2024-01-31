@@ -1,3 +1,1 @@
-1 STRING 
-1 NUM 2936
-Error \
+Error undefined escape sequence  
