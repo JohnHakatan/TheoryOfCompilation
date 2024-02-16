@@ -20,6 +20,8 @@ void yyerror(const char*);
 %token ID
 %token NUM
 %token STRING
+%token RELOP 
+%token BINOP
 %right ASSIGN
 %left OR
 %left AND
@@ -61,8 +63,8 @@ Call: ID LPAREN ExpList RPAREN                                                  
     | ID LPAREN RPAREN                                                          {output::printProductionRule(17);}
 ;
 
-ExpList: Exp COMMA ExpList                                                      {output::printProductionRule(18);}
-       | Exp                                                                    {output::printProductionRule(19);}
+ExpList: Exp                                                                    {output::printProductionRule(18);}
+       | ExpList Exp                                                             {output::printProductionRule(19);}
 ;
 
 Type: INT                                                                       {output::printProductionRule(20);}
