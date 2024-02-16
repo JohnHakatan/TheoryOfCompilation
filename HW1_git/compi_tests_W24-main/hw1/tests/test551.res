@@ -1,0 +1,2 @@
+1 BINOP *
+1 RBRACE }

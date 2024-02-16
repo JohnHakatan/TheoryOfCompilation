@@ -1,0 +1,10 @@
+1 ID ImT2bool
+1 BINOP +
+1 RELOP <
+1 SC ;
+1 ID xi8z6zAlI4RP
+1 RPAREN )
+1 ID xi8z6zAlI4RP
+1 RBRACE }
+2 BINOP +
+2 RETURN return

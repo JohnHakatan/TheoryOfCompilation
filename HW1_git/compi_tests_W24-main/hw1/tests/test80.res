@@ -1,0 +1,2 @@
+1 STRING B	
+1 NOT not
