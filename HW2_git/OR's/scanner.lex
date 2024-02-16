@@ -22,10 +22,12 @@ comment (\/\/[^\r\n]*[\r|\n|\r\n]?)
 
 %%
 
+void return VOID;
 int return INT;
 byte return BYTE;
 b return B;
 bool return BOOL;
+override return OVERRIDE;
 and return AND;
 or return OR;
 not return NOT;
@@ -38,13 +40,12 @@ while return WHILE;
 break return BREAK;
 continue return CONTINUE;
 ; return SC;
+, return COMMA;
 \( return LPAREN;
 \) return RPAREN;
 \{ return LBRACE;
 \} return RBRACE;
 = return ASSIGN;
-[<>=!]=|>|< return RELOP;
-[\+\-\*\/] return BINOP;
 {equality} return EQUALITY;
 {relational} return RELATIONAL;
 {muldiv} return MULDIV;
