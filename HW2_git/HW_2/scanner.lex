@@ -1,57 +1,60 @@
 %{
-    #include <stdio.h>
-    #include "parser.tab.hpp"
-    #include "output.hpp"
+#include <stdio.h>
+#include "output.hpp"
+#include "parser.tab.hpp"
 %}
 
+/* flex configuration */
 %option yylineno
 %option noyywrap
 
-digit ([0-9])
-digitwithoutzero ([1-9])
-letter ([a-zA-Z])
-whitespace ([\t\n\r ])
-equality (==|!=)
-relational (<|>|<=|>=)
-addsub (\+|\-)
-muldiv (\*|\/)
-id ([a-zA-Z][a-zA-Z0-9]*)
-num ([1-9]([0-9]*)|0)
-string (\"([^\n\r\"\\]|\\[rnt"\\])+\")
-comment (\/\/[^\r\n]*[\r|\n|\r\n]?)
 
+digit   		        ([0-9])
+letter  		        ([a-zA-Z])
+nextLine                \n
+tabSpacing              \t
+lineBeginning           \r
+whiteSpace		        ([ \t\n\r])
+hexcharacter            ([0-9a-fA-F])
+quote                   (\")
+Ignore                  \/\/[^\r\n]*[\r|\n|\r\n]?
+String                  \"([^\n\r\"\\]|\\[rnt"\\])+\"
+
+
+
+%x STRING_STATE
 %%
 
-int return INT;
-byte return BYTE;
-b return B;
-bool return BOOL;
-and return AND;
-or return OR;
-not return NOT;
-true return TRUE;
-false return FALSE;
-return return RETURN;
-if return IF;
-else return ELSE;
-while return WHILE;
-break return BREAK;
-continue return CONTINUE;
-; return SC;
-\( return LPAREN;
-\) return RPAREN;
-\{ return LBRACE;
-\} return RBRACE;
-= return ASSIGN;
-[<>=!]=|>|< return RELOP;
-[\+\-\*\/] return BINOP;
-{equality} return EQUALITY;
-{relational} return RELATIONAL;
-{muldiv} return MULDIV;
-{addsub} return ADDSUB;
-{id} return ID;
-{num} return NUM;
-{string} return STRING;
-{comment} ;
-{whitespace} ;
-. {output::errorLex(yylineno); exit(0);}
+int                                                                             return INT;
+byte                                                                            return BYTE;
+b                                                                               return B;
+bool                                                                            return BOOL;
+and                                                                             return AND;
+or                                                                              return OR;
+not                                                                             return NOT;
+true                                                                            return TRUE;
+false                                                                           return FALSE;
+return                                                                          return RETURN;
+if                                                                              return IF;
+else                                                                            return ELSE;
+while                                                                           return WHILE;
+break                                                                           return BREAK;
+continue                                                                        return CONTINUE;
+;                                                                               return SC;
+\(                                                                              return LPAREN;
+\)                                                                              return RPAREN;
+\{                                                                              return LBRACE;
+\}                                                                              return RBRACE;
+=                                                                               return ASSIGN;
+(<=|>=|<|>)                                                                     return RELATIONAL_OP;
+(==|!=)                                                                         return EQUALITY_OP;
+[\+\-]                                                                          return ADDITIVE_BINOP;
+[\*\/]                                                                          return MULTIPLICATIVE_BINOP;
+{letter}({letter}|{digit})*                                                     return ID;
+([1-9]({digit})*)|0                                                             return NUM;
+{String}                                                                        return STRING;
+{whiteSpace}				                                                    ;
+{Ignore}                                                                        ;
+.                                                                               {output::errorLex(yylineno); exit(0);}
+%%
+  
